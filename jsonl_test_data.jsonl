@@ -1,0 +1,11 @@
+{"id": "001", "text": "Hello, LLM!", "source": "manual", "label": "greeting"}
+{"id": "002", "text": "Python 是数据处理和 AI 开发中常用的编程语言。", "source": "manual", "label": "knowledge"}
+{"id": "003", "text": "  这条记录的文本前后有多余空格。  ", "source": "manual", "label": "cleanup"}
+{"id": "004", "text": "This record contains English words for split testing.", "source": "web", "label": "english"}
+{"id": "005", "text": "你好，世界！🌍", "source": "manual", "label": "unicode"}
+{"id": "006", "text": "", "source": "manual", "label": "empty"}
+{"id": "007", "text": "   ", "source": "manual", "label": "whitespace"}
+{"id": "008", "source": "manual", "label": "missing_text"}
+{"id": "009", "text": 12345, "source": "manual", "label": "not_string"}
+{"id": "010", "text": "这一行前面的 JSON 缺少结束花括号"
+{"id": "011", "text": "这是一条位于非法 JSON 之后的有效记录。", "source": "manual", "label": "after_error"}
