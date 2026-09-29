@@ -1,3 +1,5 @@
+print("hello")
+
 test = "hello"
 length = len(test)
 

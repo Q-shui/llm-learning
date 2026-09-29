@@ -1,4 +1,4 @@
-import test
+import tests.test as test
 
 # 这是第一条注释
 spam = 1  # 而这是第二条注释
